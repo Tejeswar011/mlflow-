@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/models/m-1568290f6a604c90bc0824ef7e0d093a/artifacts
+creation_timestamp: 1759664053329
+experiment_id: '0'
+last_updated_timestamp: 1759664064029
+model_id: m-1568290f6a604c90bc0824ef7e0d093a
+model_type: null
+name: model
+source_run_id: fa87df3381594745939513e6315b0736
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/95c69bc968804a9ab9f0ca4e7bf490c8/artifacts
+end_time: 1759663698921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95c69bc968804a9ab9f0ca4e7bf490c8
+run_name: righteous-turtle-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759663698807
+status: 4
+tags: []
+user_id: tejes

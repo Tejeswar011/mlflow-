@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/aa62a01a794046f0847c64b534a4eaf1/artifacts
+end_time: 1759663896574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aa62a01a794046f0847c64b534a4eaf1
+run_name: bright-cod-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759663896513
+status: 4
+tags: []
+user_id: tejes

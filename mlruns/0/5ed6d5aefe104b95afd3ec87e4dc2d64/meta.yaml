@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/5ed6d5aefe104b95afd3ec87e4dc2d64/artifacts
+end_time: 1759663660015
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ed6d5aefe104b95afd3ec87e4dc2d64
+run_name: nimble-finch-413
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759663659900
+status: 4
+tags: []
+user_id: tejes

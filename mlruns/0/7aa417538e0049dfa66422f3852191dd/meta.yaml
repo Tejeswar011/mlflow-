@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/7aa417538e0049dfa66422f3852191dd/artifacts
+end_time: 1759727551236
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7aa417538e0049dfa66422f3852191dd
+run_name: zealous-fawn-747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759727547607
+status: 3
+tags: []
+user_id: tejes

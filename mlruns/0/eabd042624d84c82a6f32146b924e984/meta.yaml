@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLFlow/mlruns/0/eabd042624d84c82a6f32146b924e984/artifacts
+end_time: 1759727169434
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eabd042624d84c82a6f32146b924e984
+run_name: painted-newt-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759727155165
+status: 3
+tags: []
+user_id: tejes
